@@ -1,5 +1,5 @@
 === MF Gig Calendar ===
-Contributors: Wilson
+Contributors: WilsonMK
 Tags: calendar, event, gig, musician, Matthew Fries, brewermfnyc
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
